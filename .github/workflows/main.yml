@@ -26,4 +26,4 @@ jobs: build:
         length=127 --statistics
     - name: Test with pytest
       run: pytest
-      working-directory: Chapter02
+      working-directory: testing
